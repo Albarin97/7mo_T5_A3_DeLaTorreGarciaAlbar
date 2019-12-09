@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_HTTP</string>
+    <string name="btn_altas">Altas</string>
+    <string name="btn_consultas">Consultas</string>
+    <string name="btn_agregar">Agregar</string>
+
+    <string name="no_ctrl">Numero De Control</string>
+    <string name="nombre">Nombre</string>
+    <string name="p_ape">Apellido Paterno</string>
+    <string name="s_ape">Apellido Materno</string>
+    <string name="edad">Edad</string>
+    <string name="semestre">Semestre</string>
+    <string name="carrera">Carrera</string>
+
+
+</resources>
